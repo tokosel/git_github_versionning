@@ -47,3 +47,5 @@ b) Demandez à un collaborateur d'examiner et d'approuver votre "pull request".
 Étape 12: Mettre à jour le dépôt local
 a) Une fois que votre "pull request" a été approuvé et fusionné, mettez à jour votre dépôt local en utilisant
 la commande git pull origin main.
+
+Rendu: https://github.com/tokosel/git_github_versionning
